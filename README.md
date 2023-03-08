@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevMk7
-- 🌱 I’m currently learning C# and python
+- 🌱 I’m currently learning C# and Unity
 - 📫 How to reach me DevMk.Work@gmail.com
 
 <!---

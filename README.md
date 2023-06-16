@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevMk7
 - 🌱 I’m currently learning C# and Unity
-- 📫 How to reach me DevMk.Work@gmail.com
+- 📫 How to reach me DevMk.work@gmail.com
 
 <!---
 DevMk7/DevMk7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
